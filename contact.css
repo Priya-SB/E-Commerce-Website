@@ -1,0 +1,24 @@
+/*CSS Style sheet for contact.html*/
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+.map-container-6{
+overflow:hidden;
+padding-bottom:56.25%;
+padding-left:10%;
+position:relative;
+height:0;
+margin-left: ($spacer * .25) !important;
+}
+
+.map-container-6 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+
+	
+	
