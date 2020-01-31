@@ -27,64 +27,69 @@ HTML Validations (Required fields)
 HTML Validations (Email address)
 ![slide7](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(115).png)
 -----------------------------------------------------------------------------------------------
+HTML Validations (Password length)
+![slide8](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(128).png)
+-----------------------------------------------------------------------------------------------
 JavaScript Validations (Phone number and Pin code)
-![slide8](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(116).png)
+![slide9](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(116).png)
 -----------------------------------------------------------------------------------------------
 PHP Validations (Unique Email address)
-![slide9](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(122).png)
+![slide10](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(122).png)
 -----------------------------------------------------------------------------------------------
 Correct Details
-![slide10](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(125).png)
+![slide11](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(125).png)
 -----------------------------------------------------------------------------------------------
 Database entry
-![slide11](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(127).png)
+![slide12](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(127).png)
 -----------------------------------------------------------------------------------------------
 Sign in page
 -----------------------------------------------------------------------------------------------
 Redirected by successful sign up
-![slide12](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(120).png)
+![slide13](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(120).png)
 -----------------------------------------------------------------------------------------------
 PHP Validations (Correct Username & Password)
-![slide13](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(117).png)
+![slide14](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(117).png)
 -----------------------------------------------------------------------------------------------
-![slide14](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(118).png)
+![slide15](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(118).png)
 -----------------------------------------------------------------------------------------------
 Shop Now page
 -----------------------------------------------------------------------------------------------
 Successful sign in starts a SESSION that redirects here
-![slide15](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(119).png)
+![slide16](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(119).png)
 -----------------------------------------------------------------------------------------------
 Product catalogue
-![slide16](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(104).png)
+![slide17](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(104).png)
 -----------------------------------------------------------------------------------------------
 Items fetched from database
-![slide16](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(124).png)
+![slide18](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(124).png)
 -----------------------------------------------------------------------------------------------
 Adding items to cart
-![slide17](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(105).png)
+![slide19](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(105).png)
 -----------------------------------------------------------------------------------------------
 Removing item from cart
-![slide18](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(106).png)
+![slide20](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(106).png)
 -----------------------------------------------------------------------------------------------
 Empty the cart
-![slide19](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(107).png)
+![slide21](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(107).png)
 -----------------------------------------------------------------------------------------------
 Your Orders page
 -----------------------------------------------------------------------------------------------
 User has to enter order id to check status
-![slide20](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(108).png)
+![slide22](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(108).png)
 -----------------------------------------------------------------------------------------------
 Track the order status here
-![slide21](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(109).png)
+![slide23](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(109).png)
 -----------------------------------------------------------------------------------------------
 Contact us page
 -----------------------------------------------------------------------------------------------
 Google maps address 
-![slide22](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(103).png)
+![slide24](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(103).png)
 -----------------------------------------------------------------------------------------------
 Sign out button redirects to login page
 -----------------------------------------------------------------------------------------------
-![slide23](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(110).png)
+![slide25](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(110).png)
 -----------------------------------------------------------------------------------------------
-![slide24](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(120).png)
+![slide26](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(120).png)
+-----------------------------------------------------------------------------------------------
+THANK YOU
 -----------------------------------------------------------------------------------------------
