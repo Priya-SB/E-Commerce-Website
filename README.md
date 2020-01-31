@@ -1,5 +1,5 @@
 # E-Commerce-Website
-An online Furniture Store using HTML, CSS, JavaScript, PHP. Tested the Website on local web server using 'xampp'.
+An online Furniture Store using HTML, CSS, JavaScript, PHP. Tested the website on local web server using 'xampp'.
 
 -----------------------------------------------------------------------------------------------
 Home Page:
@@ -27,9 +27,11 @@ HTML Validations (Email address)
 JavaScript Validations (Phone number and Pin code)
 ![slide7](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(116).png)
 -----------------------------------------------------------------------------------------------
-![slide8](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(100).png)
+Correct Details
+![slide8](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(125).png)
 -----------------------------------------------------------------------------------------------
-![slide9](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(100).png)
+Database entry
+![slide9](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(126).png)
 -----------------------------------------------------------------------------------------------
 ![slide10](https://github.com/Priya-SB/E-Commerce-Website/blob/master/Read%20me/Screenshot%20(100).png)
 -----------------------------------------------------------------------------------------------
